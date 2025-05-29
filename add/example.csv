@@ -1,3 +1,2 @@
-Description;Email;Gilde;Username;Firstname;Lastname;Password;OU;;;;
-;;;;;;;;;;;
-;;;;;;;;;;;
+Description;Email;Gilde;Username;Firstname;Lastname;Password;OU
+Student user;user@example.com;Sysadmin;jsmith;John;Smith;Password123!;OU=Users,DC=example,DC=com
